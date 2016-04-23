@@ -19,3 +19,13 @@ Create a new project directory /Users/ryan/projects/new_sample.
 Run the generate command mvn archetype:generate -DarchetypeCatalog=local
 URL from reference:
 https://www.luckyryan.com/2013/02/15/create-maven-archetype-from-existing-project/
+
+# WebAppJSF
+## Respositorio del Proyecto Base Usando JSF 2.0
+
+1. git init 
+2. git remote add origin https://github.com/edicsonm/WebAppJSF 
+3. git add --all git commit -m "Initial Commit" 
+4. git pull origin master 
+5. git push -u origin master
+
