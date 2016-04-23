@@ -1,7 +1,7 @@
 # Archetypes
 ## Repositorio de "Archetypes" para maven
--. spring-webapp-archetype
-Comandos: 
+   spring-webapp-archetype
+## Comandos
 1. git init
 2. git remote add origin https://github.com/edicsonm/Archetypes.git
 3. git add --all
