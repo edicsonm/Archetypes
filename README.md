@@ -7,7 +7,7 @@ Comandos:
 3. git add --all
 4. git commit -m "Initial Commit"
 5. git pull origin master
-6. git push -u origin master
+   git push -u origin master
 
 
    Create a Maven Archetype from an existing project:
