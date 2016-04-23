@@ -1,16 +1,16 @@
 # Archetypes
-Repositorio de "Archetypes" para maven
+## Repositorio de "Archetypes" para maven
 -. spring-webapp-archetype
 Comandos: 
-git init
-git remote add origin https://github.com/edicsonm/Archetypes.git
-git add --all
-git commit -m "Initial Commit"
-git pull origin master
-git push -u origin master
+1. git init
+2. git remote add origin https://github.com/edicsonm/Archetypes.git
+3. git add --all
+4. git commit -m "Initial Commit"
+5. git pull origin master
+6. git push -u origin master
 
 
-Create a Maven Archetype from an existing project:
+   Create a Maven Archetype from an existing project:
 First navigate to the root directory of the source project and run the following maven command: mvn archetype:create-from-project
 Copy the target/generated-sources/archetype to a new directory and evaluate for changes.
 Once the archetype matches what we want. It’s time to install it locally and generate a sample project.
